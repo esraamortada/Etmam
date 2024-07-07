@@ -72,7 +72,7 @@ function saveEmail() {
         }),
         headers: {
             "Content-type": "application/json",
-            "api-key": "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",
+            "api-key": "",
         }
     })
     .then(response => {
